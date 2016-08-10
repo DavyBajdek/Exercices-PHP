@@ -1,0 +1,11 @@
+.border{
+    margin-top: 50px;
+    border: 1px solid green; 
+    text-align: center;
+    color: red; 
+    width: 50%;
+    margin-left: 25%;
+    padding: 25px;
+}
+
+

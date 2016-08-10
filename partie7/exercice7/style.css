@@ -1,0 +1,39 @@
+.form{
+    border : 1px solid black;
+    background-image: url('http://www.unidis.fr/sante-securite/wp-content/uploads/2012/10/Background4.png');
+    background-repeat: no-repeat; 
+    width: 600px; 
+    margin-left: 25%;   
+    }
+.obligatory{
+    font-size: 11px; 
+    text-align: center; 
+}
+.contacttitle{
+    font-size: 18px; 
+    text-align: center; 
+    color: grey;
+}
+.name{
+    margin-left: 24px; 
+}
+.namelabel{
+    margin-left: 65px; 
+}
+.firstnamelabel{
+    margin-left: 65px; 
+}
+.civil{
+    margin-left: 35px; 
+}
+.filePDF{
+    text-align: center;
+    margin-top: 25px; 
+}
+.submit{
+    margin-left: 440px; 
+}
+.inputfile{
+    margin-top: 25px; 
+    margin-left: 60px;
+}
