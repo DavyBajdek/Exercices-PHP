@@ -6,8 +6,6 @@
         <link href="style.css" rel="stylesheet" type="text/css"/>
     </head>
     <body>
-        <?php
-        ?>
         <div class="border">
         <h1>Modifier vos informations :</h1>
             <form action="exercice5.php" method="post">
